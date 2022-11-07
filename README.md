@@ -1,6 +1,6 @@
 # CS3310---Project-1
 
-Names: Jeremy Luu , Nicholas Ramirez-Ornelas
+Names: Jeremy L. , Nicholas Ramirez-Ornelas
 
 Date: 11-6-22
 
