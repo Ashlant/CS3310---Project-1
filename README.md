@@ -1,8 +1,11 @@
 # CS3310---Project-1
 
 Names: Jeremy Luu , Nicholas Ramirez-Ornelas
+
 Date: 11-6-22
+
 Class: CS3310.02 
+
 Professor: Huong Luu
 
 Program Description:
